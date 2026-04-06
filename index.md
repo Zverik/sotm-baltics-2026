@@ -13,7 +13,7 @@ Which also means, if you get bored of these, you can attend any of the other
 tracks to listen to more specialized topics. Also it means we've got a serious
 conference and you have to register to attend (registration will open a bit later).
 
-[Submit your talk here!](https://docs.google.com/forms/d/e/1FAIpQLSdKTwh9YtcYgxDQiBMQEUzJzLrofE5qyEtAq-RwaUhelPijcg/viewform?usp=sf_link)
+[Submit your talk here!](https://docs.google.com/forms/d/e/1FAIpQLSdPu74cnq4x3ACehDSWKXyDKsqo53bFqkirlBcwSoHBdXQKLg/viewform?usp=publish-editor)
 {: .button}
 
 After doing all of the above, it's time to book a flight, choose a hotel
