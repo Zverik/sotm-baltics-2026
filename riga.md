@@ -3,7 +3,7 @@ layout: sotm
 title: SotM Baltics 2026 Travel
 ---
 Riga! The Europe's Wifi capital!
-But of course there is plenty [more to see](https://www.liveriga.com/en/):
+But of course there is plenty [more to see](https://www.liveriga.com/en/visit):
 amazing historic facades, cobblestone roads, a river half
 a kilometer in width with astonishing views. Fish. Anything to
 please a traveller, and we haven't even started on an iconic
@@ -34,35 +34,38 @@ on [other channels](https://openstreetmap.community/?map=57.01004,24.19144&zoom=
 
 # The Venue
 
-It's the **National Library of Latvia!** Last time we held a social event there,
-but the building is too big to miss other rooms! Sure it looks... outdated,
-but inside it hosts plenty of interesting stuff. Including books!
+It's **The House of Nature** — a very curious name which few locals know. In fact,
+it is a part of the Academic Center of the University of Latvia. It is pretty new,
+looks excellent both from the inside and the outside, but also quite inconveniently
+located behind the railway ten minutes by walking from the National Library.
 
-[The building](https://www.openstreetmap.org/?mlat=56.94143&mlon=24.09598#map=17/56.94143/24.09598)
-is impossible to miss: just look for a national library in your mapping app.
-Here's a [GeoURI](geo:56.94145,24.09610?z=16)
-and an [Organic Maps marker](https://omaps.app/44wGujuGCS/Latvijas_Nacion%C4%81l%C4%81_bibliot%C4%93ka) for you.
-When near, find the Baltic GIT conference banners and follow them.
+To find it, use an app: [here is the building](https://www.openstreetmap.org/way/361765048)
+on OpenStreetMap, [a Geo URI](geo:56.936813,24.097610?z=17) which should open
+a mapping app, or an [Organic Maps marker](https://omaps.app/84wGujFM3X/Main_Entrance).
+When near, find a Baltic GIT conference banner and approach it, watching for other GIS enthusiasts to follow.
 
-To get to the library, take:
+From the city center you could also try using:
 
-* a tram: it's right opposite the "Nacionālā bibliotēka" stop, trams 1, 2, 5, 10.
-* a bus: same stop for buses 3, 4, 7, 8, 21, 22, 25, 32,
-    or a closer one — "LU Akadēmiskais centrs" for bus 23 from the bus and train stations.
-* a taxi: [Bolt](https://bolt.eu/en/cities/riga/) and [phone options](https://www.welcomepickups.com/riga/taxi/)
-    are available, no Uber or Yandex.
+* a tram: numbers 1, 5, 8, 10 to the "Nacionālā bibliotēka" stop, and you would need to walk from there.
+* a bus: number 23 stops right in front of the university building (stop "LU Akadēmiskais centrs").
+    Quite a lot of other routes go through the library though.
+    Tickets cost 1.5 € (you'll need to [buy it ahead](https://www.liveriga.com/en/17-public-transportation)).
+* a taxi: basically, [Bolt](https://bolt.eu/en/cities/riga/).
+* a scooter: [Bolt](https://bolt.eu/en/cities/riga/) and [Ride](https://ridemobility.eu/) are the two
+    most prominent apps. Note that the entire Old Town is cobblestone-paved,
+    you won't want to ride through it more than once.
 
 # Accomodation
 
 For some reason, it is often cheaper to rent an apartment than a hotel room.
-On the [booking.com](https://www.booking.com/searchresults.en-gb.html?ac_click_type=b&checkout_year=2023&is_ski_area=&checkout_month=5&place_id_lon=24.105742&no_rooms=1&ss_raw=riga&search_selected=true&iata=RIX&checkin_monthday=18&ac_position=0&checkout_monthday=19&checkin_year=2023&checkin_month=5&efdco=1&src_elem=sb&src=index&place_id_lat=56.949493&ac_suggestion_theme_list_length=0&sb_lp=1&group_children=0&sb=1&auth_success=1&from_sf=1&dest_type=city&ac_langcode=en&dest_id=-3212216&ac_suggestion_list_length=5&group_adults=2&b_h4u_keep_filters=&ss=R%C4%ABga%2C+Vidzeme%2C+Latvia)
+On the [booking.com](https://www.booking.com/searchresults.en-gb.html?label=gen173nr-10CAEoggI46AdIM1gEaEKIAQGYATO4ARnIAQ_YAQPoAQH4AQGIAgGoAgG4AqzI1c4GwAIB0gIkMjAxNmM1MWEtMTA5MC00N2QzLTllMzEtZjBmMjc0NjFhZDQ32AIB4AIB&aid=304142&ss=Riga%2C+Latvia&efdco=1&lang=en-gb&src=index&dest_id=-3212216&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=xu&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=72198d964ba80b8a&checkin=2026-06-03&checkout=2026-06-04&group_adults=1&no_rooms=1&group_children=0&nflt=price%3DEUR-min-100-1)
 website, you'll see plenty of options starting from 30 € a night
-(though 50 is a more common price). The best area to rent is of course around the National
-Library.
+(though 50-70 is a more common price). The best area to rent is of course in the Old Town,
+followed by the venue area.
 
 Due to Riga being a popular destination for students and backpackers, there
-are many cheap [hostels](https://www.hostelworld.com/search?search_keywords=Riga,%20Latvia&country=Latvia&city=Riga&date_from=2023-05-18&date_to=2023-05-19&number_of_guests=1&display=map),
-with prices around 10 € a night. Most of these are located in the city
+are many cheap [hostels](https://www.hostelworld.com/pwa/s?q=Riga,%20Latvia&country=Latvia&city=Riga&type=city&id=224&from=2026-06-03&to=2026-06-04&guests=1&page=1),
+with prices around 20 € a night. Most of these are located in the city
 centre: the best location criteria for you should be a distance to the
 nearest tram stop, or to the railway station.
 
@@ -73,13 +76,15 @@ hotel or hostel and book directly: that helps them save on huge booking.com fees
 # Good to Know
 
 * Browse the official [tourist website](https://www.liveriga.com/en/) for info on events and places.
-* For public transport, purchase an e-ticket at any street kiosk. A ride costs 1.15 €,
-    but 2 € when paid to a driver. See the [official website](https://www.rigassatiksme.lv/en/for-riga-guests/public-transport-in-riga/)
+* For public transport, purchase an e-ticket at any street kiosk. A ride costs 1.5 €,
+    and you cannot buy a ticket inside a bus/tram.
+    See the [official website](https://www.rigassatiksme.lv/en/for-riga-guests/public-transport-in-riga/)
     for schedules, fares, and tickets.
 * Use trams. At least once. Better if you cross the Daugava river.
 * Be prepared to find tons of cat-related souvenirs. Cat on a roof is a common symbol of the city.
 * There are many free wi-fi access points. When lost or in doubt, contact the organizers:
-  * Rihards (EN, LV by org email) or Ilya (EN, RU, EE by org email or [telegram](https://t.me/ilyazver)).
+  * Rihards (EN, LV by org email).
+  * Ilya (EN, RU, EE by org email, [signal](https://signal.me/#eu/X1ajI4RxYBGO7Ca_3ae3EfKaUe86p-OrEgsTkAYFTT-fOKIPdm1PxKvN6LxjBCGd) or [telegram](https://t.me/ilyazver)).
   * [Latvian community chat](https://osmlatvija.zulipchat.com/#narrow/stream/360540-pas.C4.81kumi/topic/SOTM.20Baltics.202023).
   * Org email is [org@sotm-baltics.org](mailto:org@sotm-baltics.org).
 
