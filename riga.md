@@ -36,7 +36,7 @@ on [other channels](https://openstreetmap.community/?map=57.01004,24.19144&zoom=
 
 It's **The House of Nature** — a very curious name which few locals know. In fact,
 it is a part of the Academic Center of the University of Latvia. It is pretty new,
-looks excellent both from the inside and the outside, but also quite inconveniently
+looks excellent both from the inside and the outside, but also quite conveniently
 located behind the railway ten minutes by walking from the National Library.
 
 To find it, use an app: [here is the building](https://www.openstreetmap.org/way/361765048)
