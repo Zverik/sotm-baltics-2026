@@ -12,24 +12,38 @@ and experience related to OpenStreetMap. This time, only for a day: **4 June 202
 This SotM is a part of the [Baltic Geospatial Information Technology Conference](https://www.balticgitconf.eu/).
 We cannot thank them enough for letting us borrow a room for OSM-related talks.
 Which also means, if you get bored of these, you can attend any of the other
-tracks to listen to more specialized topics. Also it means we've got a serious
-conference and you have to register to...
+tracks to listen to more specialized topics.
 
-[Register to attend](https://balticgitconf.eu/registration/)
-{: .button}
-
-We build our programme separately, but it will sure be correlated with the other
-rooms at the conference, so the requirements are the same. Please submit your
-20-minute talk using this form:
-
-[Submit your talk here!](https://docs.google.com/forms/d/e/1FAIpQLSdPu74cnq4x3ACehDSWKXyDKsqo53bFqkirlBcwSoHBdXQKLg/viewform?usp=publish-editor)
-{: .button}
-
-After doing all of the above, it's time to book a flight, choose a hotel
-and add some bookmarks to your mobile map. We've got a page just for that:
+We hope you've registered and booked your flight and hotel. Before you come,
+there is some useful information you'd want to know:
 
 [Travel, accomodation, the venue](riga.html)
 {: .button}
+
+# Schedule
+
+The main conference happens in rooms Magnum and Dextrum, while the OSM session
+is on the second floor in room 223. Our talks start right after lunch.
+
+* 13:20: Püü Polma, "Beyond Points on a Map: Maintaining Address Intelligence Across the Baltics"
+* 13:50: Tomas Straupis, "Mapping: balance of purpose and joy"
+* 14:20: Ilja Zverev, "Every cycleway, measured"
+* 14:50: Vizma Mičule, Artūrs Pizičs, "Mapping grandma’s milk churn stands"
+* 15:20: **Coffee Break**
+* 15:40: Priscilla Zachee, Vlada Boitsik, Tomasz Kozlowski, "TomTom Growing Open Mapping with Universities"
+* 16:10: Tomas Straupis, "Vector Tiles: Lessons from Eight Years in Production"
+* 18:30: **Social Event**
+
+# Friday Workshops
+
+On Friday, the conference won't happen, and students will claim the rooms for their tasks.
+But we will have room 319 on the third floor available, and there will be workshops:
+
+* 9:00: Priscilla Zachee, "Let’s build the map together: join our hands-on mapping workshop with TomTom and MapRoulette"
+* 11:00: Ilja Zverev, "Fool around with map of Riga, building silly maps for fun and learning"
+* 13:00: Bicycle ride to the sea shore until 18:30
+
+For the complete schedule of the Baltic GIT Conference, see [their website](https://www.balticgitconf.eu/).
 
 Subscribe to our [mastodon](https://en.osm.town/@sotmbaltics){:rel="me"} account for updates.
 Questions? Send them to [org@sotm-baltics.org](mailto:org@sotm-baltics.org).
